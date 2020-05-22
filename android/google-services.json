@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "234917845779",
+    "firebase_url": "https://practica22mayo.firebaseio.com",
+    "project_id": "practica22mayo",
+    "storage_bucket": "practica22mayo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234917845779:android:941dd601550c5fb3a2d8e6",
+        "android_client_info": {
+          "package_name": "com.example.mlpractica"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234917845779-j4g0963lpgm2qov9sl8nuogdddfkj6fr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFReOsa2jTKE0_SHAHudbtPwN4qFysH9U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234917845779-j4g0963lpgm2qov9sl8nuogdddfkj6fr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
